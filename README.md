@@ -5,6 +5,7 @@
 
 **Projects:**
 - [Cypa Scripts](https://github.com/JVols111/cypa-scripts): Our Cyber-Patriots team's scripts for our competitions
+- [Street Fighter](https://github.com/JVols111/Street-Fighter): Simple street fighter game made using pygame
 
 **More Info:**
 
